@@ -1,6 +1,6 @@
 # 项目中使用到的超图接口
 
-[![Commit](https://img.shields.io/github/last-commit/My-job-document/SuperMap-Document.svg)](https://github.com/My-job-document/SuperMap-Document/commits/master) [![Tag](https://img.shields.io/github/tag/My-job-document/SuperMap-Document.svg)](https://github.com/My-job-document/SuperMap-Document/tags) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/My-job-document/SuperMap-Document/blob/master/LICENSE)
+[![Commit](https://img.shields.io/github/last-commit/My-job-document/SuperMap-Document.svg)](https://github.com/My-job-document/SuperMap-Document/commits/master) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/My-job-document/SuperMap-Document/blob/master/LICENSE)
 
 **@author PinghuaZhuang**
 
